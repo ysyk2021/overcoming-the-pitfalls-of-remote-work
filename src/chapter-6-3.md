@@ -1,5 +1,4 @@
-Chapter 6: Overcoming Reduced Visibility and Recognition in a Remote Workplace: Seeking Out Opportunities for Professional Development
-======================================================================================================================================
+# Seeking Out Opportunities for Professional Development
 
 Remote work can present challenges when it comes to visibility and recognition. It can be difficult to ensure that your contributions are recognized and valued, particularly if you are not in regular contact with your colleagues or supervisor. However, by seeking out opportunities for professional development, you can overcome these challenges and demonstrate your value as a remote worker. In this chapter, we'll explore how to seek out opportunities for professional development in a remote workplace.
 

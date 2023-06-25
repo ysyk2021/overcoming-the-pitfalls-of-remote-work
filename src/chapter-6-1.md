@@ -1,5 +1,4 @@
-Chapter 6: Overcoming Reduced Visibility and Recognition in a Remote Workplace: Regular Check-Ins with Managers
-===============================================================================================================
+# Regular Check-Ins with Managers
 
 One of the challenges of working remotely is reduced visibility and recognition within the organization. In this chapter, we'll explore strategies for overcoming this challenge by establishing regular check-ins with managers.
 

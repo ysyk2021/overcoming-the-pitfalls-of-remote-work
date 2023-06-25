@@ -1,5 +1,4 @@
-Chapter 3: Overcoming Social Isolation in a Remote Workplace: Building a Support Network
-========================================================================================
+# Building a Support Network
 
 Social isolation is a common challenge for remote workers. Without regular face-to-face interaction with colleagues, it can be challenging to build relationships and feel connected to the team. However, by building a support network, it's possible to overcome social isolation and build strong connections with others facing similar challenges. In this chapter, we'll explore how to build a support network in a remote workplace.
 

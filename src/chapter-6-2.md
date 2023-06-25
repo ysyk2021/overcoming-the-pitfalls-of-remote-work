@@ -1,5 +1,4 @@
-Chapter 6: Overcoming Reduced Visibility and Recognition in a Remote Workplace: Establishing Clear Performance Metrics
-======================================================================================================================
+# Establishing Clear Performance Metrics
 
 One of the challenges of working remotely is reduced visibility and recognition within the organization. In this chapter, we'll explore strategies for overcoming this challenge by establishing clear performance metrics.
 

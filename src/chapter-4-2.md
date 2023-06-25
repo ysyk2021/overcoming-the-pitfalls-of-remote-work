@@ -1,5 +1,4 @@
-Chapter 4: Achieving Work-Life Balance in a Remote Workplace: Creating a Dedicated Workspace
-============================================================================================
+# Creating a Dedicated Workspace
 
 Creating a dedicated workspace is an essential step in achieving work-life balance in a remote workplace. Without a separate workspace, it can be difficult to separate work-related activities from personal life and maintain focus on work-related tasks. In this chapter, we'll explore how to create a dedicated workspace in a remote workplace.
 

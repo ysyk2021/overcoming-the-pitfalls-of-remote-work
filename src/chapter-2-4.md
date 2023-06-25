@@ -1,5 +1,4 @@
-Chapter 2: Understanding the Pitfalls of Remote Work: Reduced Visibility and Recognition
-========================================================================================
+# Reduced Visibility and Recognition
 
 Remote work offers many benefits, including increased flexibility and autonomy. However, it also comes with its own set of challenges. One of the key challenges is reduced visibility and recognition. In this chapter, we'll explore the pitfalls of reduced visibility and recognition in a remote workplace.
 
