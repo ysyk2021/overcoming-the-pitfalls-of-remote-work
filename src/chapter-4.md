@@ -1,5 +1,3 @@
-Chapter 4: Achieving Work-Life Balance in a Remote Workplace
-============================================================
 
 Achieving work-life balance is essential for maintaining health and well-being in any workplace. However, remote work can present unique challenges when it comes to establishing boundaries and managing distractions. In this chapter, we'll explore how to achieve work-life balance in a remote workplace.
 

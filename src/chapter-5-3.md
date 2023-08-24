@@ -1,4 +1,3 @@
-# Developing Contingency Plans
 
 Technical issues can arise at any time, and it's important to have contingency plans in place to minimize their impact on remote workers' productivity and job satisfaction. In this chapter, we'll discuss strategies for developing contingency plans in a remote workplace.
 

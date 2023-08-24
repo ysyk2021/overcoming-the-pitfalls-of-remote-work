@@ -1,4 +1,3 @@
-# Ensuring Reliable Technology
 
 One of the main challenges of remote work is ensuring reliable technology. Without access to reliable technology, remote workers may experience reduced productivity and increased stress levels. In this chapter, we'll explore some strategies for addressing technical issues in a remote workplace by ensuring reliable technology.
 

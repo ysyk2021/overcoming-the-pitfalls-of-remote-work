@@ -1,4 +1,3 @@
-# Managing Distractions
 
 One of the challenges of working remotely is managing distractions and achieving work-life balance. In this chapter, we'll explore strategies for managing distractions in a remote workplace.
 

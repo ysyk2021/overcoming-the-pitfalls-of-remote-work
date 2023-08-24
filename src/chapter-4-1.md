@@ -1,4 +1,3 @@
-# Establishing Clear Boundaries
 
 Achieving work-life balance is essential for maintaining health and well-being in any workplace. However, remote work can present unique challenges when it comes to establishing boundaries between work and personal life. In this chapter, we'll explore how to establish clear boundaries in a remote workplace.
 

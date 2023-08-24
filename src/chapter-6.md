@@ -1,5 +1,3 @@
-Chapter 6: Overcoming Reduced Visibility and Recognition in a Remote Workplace
-==============================================================================
 
 Reduced visibility and recognition within the organization can be a challenge for remote workers. In this chapter, we'll explore strategies for overcoming this challenge.
 

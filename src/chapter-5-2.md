@@ -1,4 +1,3 @@
-# Providing Adequate Technical Support
 
 Remote workers may face technical issues that require immediate attention and support. In this chapter, we'll explore strategies for providing adequate technical support in a remote workplace.
 

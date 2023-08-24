@@ -1,4 +1,3 @@
-# Defining Remote Work
 
 Remote work has become increasingly popular in recent years, but what exactly is remote work? In this chapter, we'll define remote work and explore its different forms.
 

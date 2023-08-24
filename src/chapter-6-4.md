@@ -1,4 +1,3 @@
-# Advocating for Yourself
 
 One of the challenges of remote work is the reduced visibility and recognition that can come with working outside of a physical office. It can be difficult to ensure that your contributions are recognized and valued, particularly if you are not in regular contact with your colleagues or supervisor. In this chapter, we'll explore how to advocate for yourself and overcome the reduced visibility and recognition in a remote workplace.
 
