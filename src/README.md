@@ -8,3 +8,7 @@ Overcoming the Pitfalls of Remote Work tackles these issues head-on by providing
 Whether you're a seasoned remote worker or new to this way of working, Overcoming the Pitfalls of Remote Work offers practical guidance and expert insights to help you succeed in a virtual environment. With its engaging writing style and real-world examples, this book is an essential resource for anyone looking to thrive in the world of remote work.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
